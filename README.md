@@ -5,7 +5,7 @@ Rapid algorithm for allowing the sorting of variable length peptide fragments in
 
 The description of the algorithm is commented throughout the Perl script. 
 
-Some of the results are shown here with varying enzymes and accuracy, bin size and incoporating up to one missed cleavage:
+Some of the results are shown here with varying enzymes and accuracy, bin size and incoporating up to one missed cleavage with different peptidases:
 
 ![M/Z Values](http://i1380.photobucket.com/albums/ah193/Mark_Ramotowski/MZExampleWithvariablefactors_zps142fb833.png)
 
